@@ -1,0 +1,8 @@
+{
+  "name": "react-music-player",
+  "private": true,
+  "dependencies": {
+    "jquery": "~3.2.1",
+    "jPlayer": "^3.2.1"
+  }
+}
